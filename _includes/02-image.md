@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Old Well] (https://assets.simpleviewinc.com/simpleview/image/fetch/c_fill,h_411,q_75,w_620/https://assets.simpleviewinc.com/simpleview/image/upload/crm/chapelhill/Old_Well_on_University_of_North_Carolina_at_Chapel_Hill_campus_a8a17c42-5056-8c03-0bc36b44da902914.jpg)
