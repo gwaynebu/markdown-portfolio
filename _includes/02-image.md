@@ -1,1 +1,1 @@
-![Image of Old Well] (https://commons.wikimedia.org/wiki/File:Old_Well.JPG)
+![Image of Yaktocat] (https://octodex.github.com/images/yaktocat.png)
